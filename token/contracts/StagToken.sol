@@ -96,3 +96,4 @@ contract StagToken is Owned, StagTokenInterface, SecurityPolicy {
         success = true;
     }
 }
+
